@@ -1,4 +1,5 @@
 # Correlation and regression for data analysis
+# Date : 06-11-2026
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -25,5 +26,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+<img width="983" height="802" alt="image" src="https://github.com/user-attachments/assets/999ec6da-23af-43d6-ac9b-57b8952db99e" />
 
 # Output 
+To analyse given data using coeffificient of correlation and regression line is successfully executed.
